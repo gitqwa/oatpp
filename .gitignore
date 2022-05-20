@@ -54,3 +54,4 @@ docker-compose.yml
 .vs/
 out/
 CMakeSettings.json
+/myStructOatpp/x64
